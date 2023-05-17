@@ -652,3 +652,6 @@ Navbar
 /* set hero to 
 min-height:calc(100vh - 62px);
 */
+.hero {
+    min-height: calc(100vh - 62px);
+}
