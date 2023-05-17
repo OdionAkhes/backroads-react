@@ -7,9 +7,9 @@ import tour4 from "./images/tour-4.jpeg";
 
 export const pageLinks = [
     {id:1,href: "#home", text: "home"},
-    {id:1,href: "#about", text: "about"},
-    {id:1,href: "#services", text: "services"},
-    {id:1,href: "#tours", text: "tours"},
+    {id:2,href: "#about", text: "about"},
+    {id:3,href: "#services", text: "services"},
+    {id:4,href: "#tours", text: "tours"},
 ]
 
 export const socialLinks = [
